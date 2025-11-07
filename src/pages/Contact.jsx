@@ -105,7 +105,7 @@ export default function Contact() {
           <h3 className="font-semibold text-xl mb-2 text-gray-800">
             Working Hours
           </h3>
-          <p className="text-gray-600">Sat - Thu: 9:00 AM - 9:00 PM</p>
+          <p className="text-gray-600">Sat - Thu: 9:00 pm - 12:00 PM</p>
           <p className="text-gray-600">Friday: Closed</p>
         </motion.div>
       </div>
